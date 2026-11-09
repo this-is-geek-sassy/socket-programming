@@ -1,0 +1,32 @@
+{
+  "tests": 4,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "FileDescriptor",
+      "tests": 4,
+      "testsuite": [
+        {
+          "name": "OpenDevNullIsValid",
+          "file": "\/home\/andromeda\/Documents\/socket-programming\/tests\/file_descriptor_test.cpp",
+          "line": 11
+        },
+        {
+          "name": "MoveLeavesSourceEmpty",
+          "file": "\/home\/andromeda\/Documents\/socket-programming\/tests\/file_descriptor_test.cpp",
+          "line": 17
+        },
+        {
+          "name": "DestructorClosesDescriptor",
+          "file": "\/home\/andromeda\/Documents\/socket-programming\/tests\/file_descriptor_test.cpp",
+          "line": 29
+        },
+        {
+          "name": "MissingPathThrowsSystemError",
+          "file": "\/home\/andromeda\/Documents\/socket-programming\/tests\/file_descriptor_test.cpp",
+          "line": 42
+        }
+      ]
+    }
+  ]
+}

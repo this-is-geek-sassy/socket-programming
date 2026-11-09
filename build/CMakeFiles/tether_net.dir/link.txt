@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtether_net.a CMakeFiles/tether_net.dir/src/net/file_descriptor.cpp.o
+/usr/bin/ranlib libtether_net.a

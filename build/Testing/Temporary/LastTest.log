@@ -1,0 +1,111 @@
+Start testing: Nov 10 02:20 IST
+----------------------------------------------------------
+1/4 Testing: FileDescriptor.OpenDevNullIsValid
+1/4 Test: FileDescriptor.OpenDevNullIsValid
+Command: "/home/andromeda/Documents/socket-programming/build/file_descriptor_test" "--gtest_filter=FileDescriptor.OpenDevNullIsValid" "--gtest_also_run_disabled_tests"
+Directory: /home/andromeda/Documents/socket-programming/build
+"FileDescriptor.OpenDevNullIsValid" start time: Nov 10 02:20 IST
+Output:
+----------------------------------------------------------
+Running main() from /home/andromeda/Documents/socket-programming/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FileDescriptor.OpenDevNullIsValid
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FileDescriptor
+[ RUN      ] FileDescriptor.OpenDevNullIsValid
+[       OK ] FileDescriptor.OpenDevNullIsValid (0 ms)
+[----------] 1 test from FileDescriptor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"FileDescriptor.OpenDevNullIsValid" end time: Nov 10 02:20 IST
+"FileDescriptor.OpenDevNullIsValid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: FileDescriptor.MoveLeavesSourceEmpty
+2/4 Test: FileDescriptor.MoveLeavesSourceEmpty
+Command: "/home/andromeda/Documents/socket-programming/build/file_descriptor_test" "--gtest_filter=FileDescriptor.MoveLeavesSourceEmpty" "--gtest_also_run_disabled_tests"
+Directory: /home/andromeda/Documents/socket-programming/build
+"FileDescriptor.MoveLeavesSourceEmpty" start time: Nov 10 02:20 IST
+Output:
+----------------------------------------------------------
+Running main() from /home/andromeda/Documents/socket-programming/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FileDescriptor.MoveLeavesSourceEmpty
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FileDescriptor
+[ RUN      ] FileDescriptor.MoveLeavesSourceEmpty
+[       OK ] FileDescriptor.MoveLeavesSourceEmpty (0 ms)
+[----------] 1 test from FileDescriptor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"FileDescriptor.MoveLeavesSourceEmpty" end time: Nov 10 02:20 IST
+"FileDescriptor.MoveLeavesSourceEmpty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: FileDescriptor.DestructorClosesDescriptor
+3/4 Test: FileDescriptor.DestructorClosesDescriptor
+Command: "/home/andromeda/Documents/socket-programming/build/file_descriptor_test" "--gtest_filter=FileDescriptor.DestructorClosesDescriptor" "--gtest_also_run_disabled_tests"
+Directory: /home/andromeda/Documents/socket-programming/build
+"FileDescriptor.DestructorClosesDescriptor" start time: Nov 10 02:20 IST
+Output:
+----------------------------------------------------------
+Running main() from /home/andromeda/Documents/socket-programming/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FileDescriptor.DestructorClosesDescriptor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FileDescriptor
+[ RUN      ] FileDescriptor.DestructorClosesDescriptor
+[       OK ] FileDescriptor.DestructorClosesDescriptor (0 ms)
+[----------] 1 test from FileDescriptor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"FileDescriptor.DestructorClosesDescriptor" end time: Nov 10 02:20 IST
+"FileDescriptor.DestructorClosesDescriptor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: FileDescriptor.MissingPathThrowsSystemError
+4/4 Test: FileDescriptor.MissingPathThrowsSystemError
+Command: "/home/andromeda/Documents/socket-programming/build/file_descriptor_test" "--gtest_filter=FileDescriptor.MissingPathThrowsSystemError" "--gtest_also_run_disabled_tests"
+Directory: /home/andromeda/Documents/socket-programming/build
+"FileDescriptor.MissingPathThrowsSystemError" start time: Nov 10 02:20 IST
+Output:
+----------------------------------------------------------
+Running main() from /home/andromeda/Documents/socket-programming/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FileDescriptor.MissingPathThrowsSystemError
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FileDescriptor
+[ RUN      ] FileDescriptor.MissingPathThrowsSystemError
+[       OK ] FileDescriptor.MissingPathThrowsSystemError (0 ms)
+[----------] 1 test from FileDescriptor (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"FileDescriptor.MissingPathThrowsSystemError" end time: Nov 10 02:20 IST
+"FileDescriptor.MissingPathThrowsSystemError" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 10 02:20 IST

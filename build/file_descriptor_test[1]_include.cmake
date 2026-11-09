@@ -1,0 +1,5 @@
+if(EXISTS "/home/andromeda/Documents/socket-programming/build/file_descriptor_test[1]_tests.cmake")
+  include("/home/andromeda/Documents/socket-programming/build/file_descriptor_test[1]_tests.cmake")
+else()
+  add_test(file_descriptor_test_NOT_BUILT file_descriptor_test_NOT_BUILT)
+endif()
